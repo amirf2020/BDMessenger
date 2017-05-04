@@ -131,25 +131,25 @@ function create_config( )
     "core"
     },
     sudo_users = {285318015,256331224},--Sudo users
-    info_text = [[*》Beyond Messenger V1.0*
+    info_text = [[*》black Messenger V1.0*
 `》An messenger bot based on plugin`
 
-》[Beyond Messenger](https://github.com/BeyondTeam/BDMessenger)
+》[Beyond Messenger](https://githb.com/BeyondTeam/BDMessenger)
 
 *》Admins :*
-*》Founder & Developer :* [SoLiD](Telegram.Me/SoLiD)
-_》Developer & Sponser :_ [MAKAN](Telegram.Me/MAKAN)
-_》Developer :_ [ToOfan](Telegram.Me/ToOfan)
+*》Founder & Developer :* [Reza](Telegram.Me/rezablack)
+_》Developer & Sponser :_ [amir](Telegram.Me/RezaBlack)
+_》Developer :_ [morgan](Telegram.Me/uae207)
 _》Developer :_ [Mohammad](Telegram.Me/Mohammadrezajiji)
 _》Developer :_ [AmirHossein](Telegram.Me/Sudo1)
 _》Developer :_ [Ehsan](Telegram.Me/CliFather)
 
 *》Special thanks to :*
-》[MrHalix](Telegram.Me/MrHalix)
-`And Beyond Team Members`
+》[professor virus](Telegram.Me/Professor_virus)
+`And blackTeam Members`
 
 *》Our channel :*
-》[BeyondTeam](Telegram.Me/BeyondTeam)
+》[BlackTeam](Telegram.Me/tabchilink)
 
 *》Our Site :*
 [BeyondTeam](BeyondTeam.ir)
